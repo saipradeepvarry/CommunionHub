@@ -36,7 +36,7 @@ It provides a **modern UI/UX**, mobile responsiveness, and smooth animations.
 ---
 
 ## 🚀 Live Demo  
-[🔗Check the live demo here!](#-https://communionhub-indol.vercel.app/)
+[🔗Check the live demo here!] https://communionhub-indol.vercel.app/
 
 ---
 
